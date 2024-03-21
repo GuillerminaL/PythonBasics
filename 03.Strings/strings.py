@@ -26,7 +26,8 @@ print(string[0:-1]) # --> This is an example of strings for substring
 
 # String Methods
 '''
-string.lower(), .upper(), .capitalize(), .title(), .swapcase()
+string.lower(), .upper(), .capitalize(), .title(), .swapcase(), 
+.startswith(), .endswith(), .islower(), .isupper()
 '''
 print("String method .title(): ", string.title())
 print("String method .swapcase(): ", string.swapcase())
